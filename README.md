@@ -1,3 +1,6 @@
+## Live Demo
+https://spacewalkerr.github.io/The-City-of-Noctura-/
+---
 ## 🌌 Noctura — A Fantastical AI-Powered Art Display Website
 
 **Welcome to Noctura, an immersive art display experience powered by storytelling and AI-generated visuals. This project blends technology and creativity to create a beautiful narrative web journey through a dreamy floating city.**
