@@ -1,30 +1,31 @@
-# The-City-of-Noctura-
-Hello Visitors here is something we visualised 
+#🌌 Noctura — A Fantastical AI-Powered Art Display Website
 
+Welcome to Noctura, an immersive art display experience powered by storytelling and AI-generated visuals. This project blends technology and creativity to create a beautiful narrative web journey through a dreamy floating city.
 
-Noctura is an immersive, interactive art display website that brings storytelling to life using cutting-edge AI-generated visuals. Set in a dreamy floating city, this project merges technology and imagination — each scene unfolds a narrative powered by vivid imagery and subtle animations.
+#🎨 Story Theme
 
-🚀 Features
-🌇 10 illustrated story scenes — featuring detailed prompts and matching AI-generated images.
+"In the city of Noctura, nestled among clouds and emotions, floating structures carry memories, dreams, and destiny. Each scene tells a part of the journey — from mysterious nights to radiant dawns."
 
-🎵 Ambient background music — optional sound toggle for immersive vibes.
+#🚀 Features
 
-✨ Smooth scroll animations — transitions between scenes feel magical.
+10 illustrated story scenes — AI-generated images aligned with narrative prompts.
 
-💡 Hover effects — descriptions gently fade in over each image.
+Smooth scroll animations — Visually appealing transitions across sections.
 
-🌟 Cursor sparkles — a magical mouse trail follows your every move.
+Ambient background music — With a toggle button for immersive storytelling.
 
-📱 Fully responsive — optimized for desktop and mobile devices.
+Hover effects on images — Descriptions fade in beautifully.
 
-🛠️ Built With
+Cursor sparkles — Magical trail effect following the user's mouse.
+
+Responsive design — Optimized for both mobile and desktop screens.
+
+#🛠️ Technologies Used
+
 HTML5
 
-CSS3 (animations & transitions)
+CSS3 (Animations, Hover effects, Layout)
 
-JavaScript (DOM interaction & canvas sparkles)
+JavaScript (Event handling, Sparkle animation, Music toggle)
 
-AI-generated visuals (prompt-crafted art using diffusion-based models)
-
-🎨 Story Theme
-"In the city of Noctura, nestled among clouds and emotions, floating structures carry memories, dreams, and destiny. Each scene tells a part of the journey — from mysterious nights to radiant dawns."
+AI Art — Images generated using diffusion-based AI models via text prompts.
