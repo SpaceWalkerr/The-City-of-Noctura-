@@ -221,4 +221,40 @@
     color: #fff;
     box-shadow: 0 0 5px rgba(255,255,255,0.2);
   }
-  
+
+
+@media screen and (max-width: 768px) {
+  .scene {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+
+  .scene img {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+  }
+
+  .music-toggle {
+    top: 1rem;
+    right: 1rem;
+    transform: scale(0.9);
+  }
+
+  #voiceSelect, #playBtn, #pauseBtn {
+    font-size: 0.9rem;
+    margin: 5px 0;
+  }
+
+  .scene-description {
+    font-size: 0.95rem;
+  }
+
+  .scene-progress {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    margin: 1rem 0;
+  }
+}
