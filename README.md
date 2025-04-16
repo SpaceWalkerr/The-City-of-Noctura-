@@ -6,26 +6,61 @@
 
 **"In the city of Noctura, nestled among clouds and emotions, floating structures carry memories, dreams, and destiny. Each scene tells a part of the journey — from mysterious nights to radiant dawns."**
 
+
+- ✨ Smooth scroll animations
+- 🎧 Ambient background music with toggle control
+- 🗣️ Narration with voice selection
+- 🖱️ Hover-based interactions and sparkles
+- 🎯 Scene-by-scene progress tracking
+
+---
+
 ## 🚀 Features
 
-**10 illustrated story scenes — AI-generated images aligned with narrative prompts.**
+### 📜 Story + AI Images  
+- 10 elaborated scenes from a fantasy story  
+- Matching AI-generated visuals  
+- Seamlessly integrated into the UI
 
-**Smooth scroll animations — Visually appealing transitions across sections.**
+### 🌊 Smooth Scroll Animations  
+- Scene transitions enhanced with fade-ins, zoom-ins, and slide-ups  
+- CSS-powered animation for immersive storytelling  
 
-**Ambient background music — With a toggle button for immersive storytelling.**
+### 🔊 Ambient Background Music  
+- Toggleable music button on top  
+- Looped ambient track for mood setting  
+- Smooth fade-in/out when toggled
 
-**Hover effects on images — Descriptions fade in beautifully.**
+### 🗣️ Narrator with Voice Control  
+- Speech synthesis reads scenes aloud  
+- Voice selector with multiple accents and tones  
+- Play / Pause / Resume / Stop controls  
+- Fully customizable voice, pitch, and rate
 
-**Cursor sparkles — Magical trail effect following the user's mouse.**
+### 🧭 Scene Progress Tracker  
+- Dots or bars to visually track current scene  
+- Highlights current reading position  
 
-**Responsive design — Optimized for both mobile and desktop screens.**
+### 🌟 Interactive Hover Effects  
+- Hover over images to reveal soft-fading descriptions  
+- Light sparkles follow the mouse cursor  
+
+---
 
 ## 🛠️ Technologies Used
 
-**HTML5**
+- **HTML5**  
+- **CSS3 (Animations, Layouts)**  
+- **JavaScript (DOM, SpeechSynthesis API)**  
+- **GitHub Pages** (for deployment)
 
-**CSS3 (Animations, Hover effects, Layout)**
+---
 
-**JavaScript (Event handling, Sparkle animation, Music toggle)**
+## 💡 How to Use
 
-**AI Art — Images generated using diffusion-based AI models via text prompts.**
+1. Clone or fork this repository  
+2. Open `index.html` in a browser  
+3. Select a voice, toggle music, scroll to enjoy the story  
+4. Deploy on GitHub Pages for public sharing
+
+---
