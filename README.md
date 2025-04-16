@@ -64,6 +64,5 @@ https://spacewalkerr.github.io/The-City-of-Noctura-/
 1. Clone or fork this repository  
 2. Open `index.html` in a browser  
 3. Select a voice, toggle music, scroll to enjoy the story  
-4. Deploy on GitHub Pages for public sharing
 
 ---
