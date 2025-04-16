@@ -1,0 +1,130 @@
+/* Reset & Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom, #0d0d1f, #1a1a3d);
+    color: #f1f1f1;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  /* Header */
+  header {
+    text-align: center;
+    padding: 30px 20px;
+  }
+  .logo {
+    width: 80px;
+    height: auto;
+  }
+  h1 {
+    font-size: 2.5rem;
+    color: #a8f0ff;
+    text-shadow: 0 0 10px #00f7ff;
+  }
+  .tagline {
+    color: #ccc;
+    margin-top: 10px;
+    font-style: italic;
+  }
+  
+  /* Story Content */
+  #story {
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top: 30px;
+  }
+  .story-block {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 20px;
+    margin: 40px 0;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+    transition: transform 0.3s ease;
+  }
+  .story-block:hover {
+    transform: scale(1.02);
+  }
+  .story-block img {
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #00f7ff;
+    margin-bottom: 15px;
+  }
+  .story-block p {
+    font-size: 1.1rem;
+    color: #e0e0ff;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 30px;
+    font-size: 0.9rem;
+    color: #aaa;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  /* Scroll Animation Styles */
+.hidden {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: all 1s ease-out;
+  }
+  .visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  /* Back to Top Button */
+  .top-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    padding: 10px 15px;
+    background: #00f7ff;
+    color: #000;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+    box-shadow: 0 0 10px #00f7ff;
+  }
+  .top-btn:hover {
+    background: #0ff;
+  }
+
+  .music-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+  }
+  
+  .music-toggle button {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .music-toggle button:hover {
+    background: rgba(255, 255, 255, 0.4);
+  }
+
+  #sparkleCanvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 999;
+  }
+  
